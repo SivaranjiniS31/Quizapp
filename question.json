@@ -1,0 +1,21 @@
+[
+    {
+      "id": "0",
+      "question": "Which is the largest animal in the world?",
+      "options": ["Shark", "Blue whale", "Elephant", "Giraffe"],
+      "correct": "Blue whale"
+    },
+    {
+      "id": "1",
+      "question": "Which is the smallest country in the world?",
+      "options": ["Vatican City", "Bhutan", "Nepal", "Sri Lanka"],
+      "correct": "Vatican City"
+    },
+    {
+      "id": "2",
+      "question": "Which is the largest desert in the world?",
+      "options": ["Kalahari", "Gobi", "Sahara", "Antarctica"],
+      "correct": "Antarctica"
+    }
+  ]
+  
